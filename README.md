@@ -1,2 +1,2 @@
 # PaginationProject
-project from Chris
+project assigned from Chris
